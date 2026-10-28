@@ -1,0 +1,11 @@
+data,produto,categoria,quantidade,preco_unitario,regiao
+2026-01-03,Café,Alimentos,12,18.90,Sudeste
+2026-01-04,Mouse,Eletrônicos,5,79.90,Sudeste
+2026-01-05,Caderno,Papelaria,20,12.50,Sul
+2026-01-06,Café,Alimentos,9,18.90,Nordeste
+2026-01-07,Teclado,Eletrônicos,4,129.90,Sudeste
+2026-01-08,Caderno,Papelaria,15,12.50,Centro-Oeste
+2026-01-09,Chá,Alimentos,8,14.50,Sul
+2026-01-10,Mouse,Eletrônicos,7,79.90,Nordeste
+2026-01-11,Caneta,Papelaria,30,3.50,Sudeste
+2026-01-12,Chá,Alimentos,11,14.50,Sudeste
